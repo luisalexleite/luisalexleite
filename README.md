@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋 / Olá 👋
 
-🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development.
+🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development. / 🌱 Atualmente estou a tentar aprender integração da linguagem Python em serviços Web e Desenvolvimento Mobile.
 <br>
-📫 How to reach me: [Luís Leite (luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub)
-<br>
-⚡ Fun fact: I actually don't want to write any fun fact now.
+📫 How to reach me / Contactar através de: [Luís Leite (luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub).
