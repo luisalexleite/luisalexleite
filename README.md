@@ -1,4 +1,4 @@
-### Hi there 👋 / Olá 👋
+### 🇬🇧 Hi there 👋 / 🇵🇹 Olá 👋
 
 🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development. / Atualmente estou a tentar aprender integração da linguagem Python em serviços Web e Desenvolvimento Mobile.
 <br>
