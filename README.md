@@ -4,4 +4,4 @@
 <hr>
 📖 More experienced in PHP/JS+CSS+HTML (MaterializeCSS and Bootstrap) Web Developing / Maior experiência em Desenvolvimento Web em PHP/JS+CSS+HTML (MaterializeCSS e Bootstrap). 
 <hr>
-📫 How to reach me / Contactar através de: [Luís Leite (luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub).
+📫 How to reach me / Contactar através de: [Luís Leite(luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub).
