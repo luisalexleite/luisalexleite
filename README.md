@@ -4,7 +4,7 @@
 
 <hr>
 
-📖 More experienced in PHP/JS+CSS+HTML (MaterializeCSS and Bootstrap) Web Developing / Maior experiência em Desenvolvimento Web em PHP/JS+CSS+HTML (MaterializeCSS e Bootstrap). 
+📖 More experienced in PHP/JS+CSS+HTML (MaterializeCSS and Bootstrap) Web Developing / Maior experiência em Desenvolvimento Web com PHP/JS+CSS+HTML (MaterializeCSS e Bootstrap). 
 
 <hr>
 
