@@ -8,7 +8,7 @@
 
 <hr>
 
-🎓 I'm studing to take an degree in Informatic Engineering on <a href='https://www.ispgaya.pt'/>ISPGAYA</a>.
+🎓 I'm studing to take an degree in Informatic Engineering on <a href='https://www.ispgaya.pt'/>ISPGAYA</a>. / Estou a tirar uma licenciatura em Engenharia Informática no <a href='https://www.ispgaya.pt'/>ISPGAYA</a>.
 
 <hr>
 
