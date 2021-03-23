@@ -8,4 +8,8 @@
 
 <hr>
 
+🎓 I'm studing to take an degree in Informatic Engineering on <a href='https://www.ispgaya.pt'/>ISPGAYA</a>.
+
+<hr>
+
 📫 How to reach me / Contactar através de: [Luís Leite (luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub) .
