@@ -1,6 +1,6 @@
 ### 🇬🇧 Hi there 👋 / 🇵🇹 Olá 👋
 
-🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development. / Atualmente estou a tentar aprender integração da linguagem Python em serviços Web/Controlo Remoto e Desenvolvimento Mobile.
+🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development and ReactJs + TypeScript. / Atualmente estou a tentar aprender integração da linguagem Python em serviços Web/Controlo Remoto e Desenvolvimento Mobile e ReactJs + TypeScript.
 
 <hr>
 
