@@ -11,7 +11,7 @@ Hi there 👋. I’m passionate about bringing ideas to life, contributing with 
 
 ## My Projects
 
-- [Remote PyChess](https://github.com/luisalexleite/remote-pychess-display) - Remote PyChess is an plataform to the users that want an private system to play chess game with their friends and/or coworkers.
+- [Remote PyChess](https://github.com/luisalexleite/remote-pychess-display) - Remote PyChess is an platform to the users that want an private system to play chess game with their friends and/or coworkers.
 
 - [Base.Gov Scrapper](https://github.com/luisalexleite/basegov-scrapper) - Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
 
