@@ -6,7 +6,12 @@
 
 ## Languages And Tecnologies
 
-
+| Backend | Frontend | Tools |
+|---------|----------|-------|
+|         |          |       |
+|         |          |       |
+|         |          |       |
+|         |          |       |
 
 ## Education
 
