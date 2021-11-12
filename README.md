@@ -32,7 +32,8 @@ Hi there 👋. I’m passionate about bringing ideas to life, contributing with 
 |HTML|Express.js|
 |CSS|MySQL|
 |ReactJS|Apache Server|
-|Unity3d/2d|Firebase|
+|React Native|Firebase|
+|Unity3d/2d|
 
 ## Education
 
