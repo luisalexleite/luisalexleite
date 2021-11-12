@@ -1,12 +1,25 @@
+<p align="center">
+  <img src="https://static.codingame.com/servlet/fileservlet?id=71006847651135&format=profile_avatar" />
+</p>
+
 # Luís Leite - Software Developer
 
 ## About Me
 
-I’m passionate about bringing ideas to life, contributing with a project development.
-I’ve gained experience working on projects with different technologies associated with it.
+Hi there 👋. I’m passionate about bringing ideas to life, contributing with a project development. I’ve gained experience working on projects with different technologies associated with it.
 
 
 ## My Projects
+
+- [Remote PyChess](https://github.com/luisalexleite/remote-pychess-display) - Remote PyChess is an plataform to the users that want an private system to play chess game with their friends and/or coworkers.
+
+- [Base.Gov Scrapper](https://github.com/luisalexleite/basegov-scrapper) - Data collection system to be used on Base Gov platform, where are located all contracts celebrated on Portugal and by the Portuguese Government.
+
+- [Covid-19 Checker](https://github.com/luisalexleite/ai-projects/tree/main/covid-19-checker) - Aplication of Neural Network knowledge to detect Covid-19 and Simply Pneumonia, by lungs x-ray images.
+
+- [Credit Simulator](https://github.com/luisalexleite/html-widgets/tree/main/credit-simulator) - Widget that calculates the credit amount required for financing an house in Portugal.
+
+- [I Love Douro TV](https://github.com/luisalexleite/ilovedourotv) - Platform to publish videos directally from Youtube (using Youtube Data API v3.0).
 
 ## Languages And Tecnologies
 
@@ -42,5 +55,5 @@ I’ve gained experience working on projects with different technologies associa
 
 ## Certificates
 
-- Coding Speed - Legend Level by Codingame
-- Python 3 Cerification by Codingame
+- [Coding Speed - Legend Level](https://www.codingame.com/certification/74OF7cp5o4p-_74FFnxbag) by Codingame
+- [Python 3 Cerification](https://www.codingame.com/certification/2Ad00SuE6ZsziFF51XnhOA) by Codingame
