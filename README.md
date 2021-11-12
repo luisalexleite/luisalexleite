@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.codingame.com/servlet/fileservlet?id=71006847651135&format=profile_avatar" />
+  <img src="https://static.codingame.com/servlet/fileservlet?id=73375206843997&format=profile_avatar" />
 </p>
 
 # Luís Leite - Software Developer
