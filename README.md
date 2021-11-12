@@ -36,15 +36,15 @@ Hi there 👋. I’m passionate about bringing ideas to life, contributing with 
 
 ## Education
 
-### ISPGAYA (2018-2022)
+### [ISPGAYA](https://www.ispgaya.pt/site/) (2018-2022)
 
 - Bachelor's Degree - Computer Science and Engineering
 
-### ISPGAYA (2018-2020)
+### [ISPGAYA](https://www.ispgaya.pt/site/) (2018-2020)
 
 - Level 5 EQF - Network and Computer Systems
 
-### ISPGAYA (2015-2018)
+### [Colégio de Gaia](https://www.colgaia.pt/) (2015-2018)
 
 - Level 4 EQF - Eletronics and Telecommunications
 
