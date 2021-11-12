@@ -2,31 +2,45 @@
 
 ## About Me
 
+I’m passionate about bringing ideas to life, contributing with a project development.
+I’ve gained experience working on projects with different technologies associated with it.
+
+
 ## My Projects
 
 ## Languages And Tecnologies
 
-| Backend | Frontend | Tools |
-|---------|----------|-------|
-|         |          |       |
-|         |          |       |
-|         |          |       |
-|         |          |       |
+|Frontend|Backend|Tools|Operative Systems|
+|:--------:|:-------:|:-----:|:-----------------:|
+|JavaScript|Python|VS Code|Windows|
+|TypeScript|PHP|Bash|Linux|
+|Bootstrap|C#|Adobe XD|
+|Material-UI|Node.js|Arduino|
+|HTML|Express.js|
+|CSS|MySQL|
+|ReactJS|Apache Server|
+|Unity3d/2d|Firebase|
 
 ## Education
 
+### ISPGAYA (2018-2022)
+
+- Bachelor's Degree - Computer Science and Engineering
+
+### ISPGAYA (2018-2020)
+
+- Level 5 EQF - Network and Computer Systems
+
+### ISPGAYA (2015-2018)
+
+- Level 4 EQF - Eletronics and Telecommunications
+
 ## Contact Me / Social
 
-🌱 I’m currently learning a lot of things, as integrating Python with Web and Remote Services and Mobile Apps Development and ReactJs + TypeScript. / Atualmente estou a tentar aprender integração da linguagem Python em serviços Web/Controlo Remoto e Desenvolvimento Mobile e ReactJs + TypeScript.
+- [Email](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub) 
+- [LinkedIn](https://www.linkedin.com/in/luisalexleite/?locale=en_US)
 
-<hr>
+## Certificates
 
-📖 More experienced in PHP/JS+CSS+HTML (MaterializeCSS and Bootstrap) Web Developing / Maior experiência em Desenvolvimento Web com PHP/JS+CSS+HTML (MaterializeCSS e Bootstrap). 
-
-<hr>
-
-🎓 I'm studing to take an degree in Informatic Engineering on <a href='https://www.ispgaya.pt'/>ISPGAYA</a>. / Estou a tirar uma licenciatura em Engenharia Informática no <a href='https://www.ispgaya.pt'/>ISPGAYA</a>.
-
-<hr>
-
-📫 How to reach me / Contactar através de: [Luís Leite (luis.alexleite@gmail.com)](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub) .
+- Coding Speed - Legend Level by Codingame
+- Python 3 Cerification by Codingame
