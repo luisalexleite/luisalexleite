@@ -49,12 +49,12 @@ Hi there 👋. I’m passionate about bringing ideas to life, contributing with 
 
 - Level 4 EQF - Eletronics and Telecommunications
 
-## Contact Me / Social
-
-- [Email](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub) 
-- [LinkedIn](https://www.linkedin.com/in/luisalexleite/?locale=en_US)
-
 ## Certificates
 
 - [Coding Speed - Legend Level](https://www.codingame.com/certification/74OF7cp5o4p-_74FFnxbag) by Codingame
 - [Python 3 Cerification](https://www.codingame.com/certification/2Ad00SuE6ZsziFF51XnhOA) by Codingame
+
+## Contact Me / Social
+
+- [Email](mailto:luis.alexleite@gmail.com?subject=Contacting%20From%20GitHub) 
+- [LinkedIn](https://www.linkedin.com/in/luisalexleite/?locale=en_US)
