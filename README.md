@@ -35,7 +35,7 @@ I’ve gained experience working on projects with different technologies associa
 |TypeScript|PHP|Bash|Linux|
 |Bootstrap|C#|Adobe XD|
 |Material-UI|Node.js|Arduino|
-|HTML|Express.js|
+|HTML|Express.js|Visual Studio|
 |CSS|MySQL|
 |ReactJS|Apache Server|
 |React Native|Firebase|
