@@ -6,7 +6,13 @@
 
 ## About Me
 
-Hi there 👋. I’m passionate about bringing ideas to life, contributing with a project development. I’ve gained experience working on projects with different technologies associated with it.
+Hi there 👋
+<br>
+<br>
+I’m passionate about bringing ideas to life, contributing with a project development. 
+<br>
+<br>
+I’ve gained experience working on projects with different technologies associated with it.
 
 
 ## My Projects
