@@ -39,7 +39,7 @@ I’ve gained experience working on projects with different technologies associa
 |CSS|MySQL|
 |ReactJS|Apache Server|
 |React Native|Firebase|
-|Unity3d/2d|
+|Unity3d/2d|Java|
 
 ## Education
 
