@@ -3,6 +3,7 @@
 </p>
 
 # Luís Leite - Software Developer
+**_Currently working at [Sofyne](https://sofynetech.com/)_**
 
 ## About Me
 
@@ -14,6 +15,10 @@ I’m passionate about bringing ideas to life, contributing with a project devel
 <br>
 I’ve gained experience working on projects with different technologies associated with it.
 
+## Work
+
+- Software Developer @ [Sofyne](https://sofynetech.com/) (Current)
+- Junior Frontend Developer / Full Stack Developer Internship @ [Mainlink](https://www.mainlink.pt/)
 
 ## My Projects
 
@@ -36,10 +41,11 @@ I’ve gained experience working on projects with different technologies associa
 |Bootstrap|C#|Adobe XD|
 |Material-UI|Node.js|Arduino|
 |HTML|Express.js|Visual Studio|
-|CSS|MySQL|
+|CSS|MySQL|Selenium|
 |ReactJS|Apache Server|
 |React Native|Firebase|
 |Unity3d/2d|Java|
+|Angular 2+|
 
 ## Education
 
