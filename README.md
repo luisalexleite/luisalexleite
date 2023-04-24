@@ -32,7 +32,7 @@ I’ve gained experience working on projects with different technologies associa
 
 - [I Love Douro TV](https://github.com/luisalexleite/ilovedourotv) - Platform to publish videos directally from Youtube (using Youtube Data API v3.0).
 
-## Languages And Tecnologies
+## Current Stack
 
 |Frontend|Backend|Tools|Operative Systems|
 |:--------:|:-------:|:-----:|:-----------------:|
